@@ -6,6 +6,7 @@ import android.view.Menu;
 
 public class ClusterMainActivity extends Activity {
 
+	private String test = null;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
